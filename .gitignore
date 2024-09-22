@@ -1,3 +1,5 @@
 ./portfollio/node_modules
 
 ./portfolio-backend/portfolio/__pycache__
+
+./portfolio-backend/portfolio/intents.json
