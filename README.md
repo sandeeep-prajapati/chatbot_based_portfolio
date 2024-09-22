@@ -19,7 +19,7 @@ This project is a custom-built chatbot designed to provide detailed responses ba
 ## Screenshots
 
 ### Web Interface
-![Web Interface Screenshot](./images/localhost_3000_ (1).png)
+![Web Interface Screenshot](./images/localhost_3000_%20(1).png)
 
 ### WhatsApp Chatbot Integration
 ![WhatsApp Bot Screenshot](./images/WhatsApp%20Image%202024-09-22%20at%2021.39.33_610ae419.jpg)
